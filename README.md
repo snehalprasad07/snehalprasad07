@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Snehal 👋
+Welcome to my GitHub💻, I'm glad you're here!
 
-<!--
-**snehalprasad07/snehalprasad07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm Data Analytics📈 Enthusiast skilled in transforming raw data into actionable insights📊 that drive business performance and strategic decision-making. I possess a strong blend of problem-solving ability, analytical thinking to create impactful data solutions along with experience in combining traditional analytics with generative AI🤖.
+ 
+ Here, you'll find:
+ - 🛠️ Projects I'm bulding or contributing to
+ - 📚 Things I have learned
 
-Here are some ideas to get you started:
+Let’s connect🤝 and explore how my expertise can create more value and unlock🔓 the power💪 of Data Analytics🤟.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
